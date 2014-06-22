@@ -18,3 +18,5 @@ Source the file run_analysis.R into R.
 Execute - run_analysis()
 
 It will produce the output file (i.e., the tidy data set) - Avg_Each_Variable_ForEach_Activity_And_Subject.csv in the same folder.
+
+Read CodeBook.md for more details about the script itself.
